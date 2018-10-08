@@ -1,4 +1,4 @@
 package com.twc.ceshigithub;
 
-public class CeshiF {
+public class MasterCeshi {
 }
